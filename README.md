@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student at Bennett University pursuing BTech in Computer Science and Engineering<br>I am willing to collaborate on Intermediate level python projects<br>Open to learn<br>Currently learning Python(Intermediate)<br>Member of Student Cabinet - Corporate relations<br>Looking up to Tyrion lannister
+I am a student at Bennett University pursuing BTech in Computer Science and Engineering<br>I am willing to collaborate on Intermediate level python projects<br>Open to learn<br>Currently learning Python(Intermediate)<br>Member of Student Cabinet - Corporate relations<br>Member of Bennett Undergraduate Research Society
 
 
 ## 🌐 Socials:
