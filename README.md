@@ -12,6 +12,7 @@
 - **Full-Stack Delivery**: FastAPI/Pydantic validation, Node/Express APIs, PostgreSQL/SQLite, Docker Compose for one-command deploys.
 - **Scalable Architecture**: Producer-consumer patterns, sandboxed execution, observability (Prometheus/Grafana planned).
 - **DevOps Edge**: Multi-stage Docker builds, cross-platform debugging, Git workflows.
+- 
 - **Tech Stack**: 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -28,12 +29,9 @@ Full-stack builds, real-time systems, backend optimization. **HCMUT Sophomore (E
 
 ⚡ **Fun Fact**: I debug production systems for hours but lose my phone in 5 minutes. 😆
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
 
 ## 🌐 Find Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/trynafindshyxm) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shyamnnayak) 
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A15?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27325327/shyam-narayan-nayak)
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=yourgithubid&label=Profile%20Views&color=4&logo=github&logoColor=white)](https://visitcount.itsvg.in)
