@@ -1,30 +1,39 @@
-# 💫 About Me:
-🔭 I’m currently working on: GradConnect, a campus networking and utility platform that enhances student engagement, academic collaboration, and campus services with features like lost & found, event management, recruitment, and real-time discussions.
+# 🚀 Shyam Narayan Nayak | Sophomore Full-Stack Dev @ HCMUT (Exchange)
 
-🧑‍🤝‍🧑 I’m looking to collaborate on: Full-stack development, real-time communication systems, and modular backend architecture to build scalable and efficient applications.
-
-🤝 I’m looking for help with: Optimizing microservices, implementing advanced search functionality (Elasticsearch), and improving real-time notifications using WebSockets & Redis.
-
-🌱 I’m currently learning: Node.js, Express.js, PostgreSQL, Redis, WebSockets, and microservices architecture to build scalable and modular backend systems.
-
-⚡ Fun fact: I can spend hours debugging code but somehow still forget where I put my phone five minutes ago! 😆
+**Building scalable campus platforms & live code engines | Node.js, FastAPI, Redis, WebSockets | Seeking Summer 2026 Internships**
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/trynafindshyxm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shyamnnayak) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27325327/shyam-narayan-nayak) 
+## 💫 What I'm Building
+- **GradConnect** (Current): Full-stack campus platform with real-time discussions (WebSockets + Redis), lost & found, events, recruitment, and microservices backend (Node/Express + PostgreSQL). Scaling for 1K+ student users.
+- **Edtronaut Code Executor** (Live): Production-ready async Python executor using FastAPI, Celery, Redis queues, subprocess isolation (5s timeouts), and Docker. Handles concurrent executions without blocking—industry-grade from day one.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShyamNayak27&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShyamNayak27&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamNayak27&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## 🛠️ Industry-Ready Skills
+- **Backend Mastery**: Microservices, async task queues (Celery/Redis), real-time notifications (WebSockets), advanced search (Elasticsearch-ready).
+- **Full-Stack Delivery**: FastAPI/Pydantic validation, Node/Express APIs, PostgreSQL/SQLite, Docker Compose for one-command deploys.
+- **Scalable Architecture**: Producer-consumer patterns, sandboxed execution, observability (Prometheus/Grafana planned).
+- **DevOps Edge**: Multi-stage Docker builds, cross-platform debugging, Git workflows.
+- **Tech Stack**: 
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+  ![Redis](https://img.shields.io/badge/Redis-CC0000?style=for-the-badge&logo=Redis&logoColor=white) 
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+## 🌱 Currently Leveling Up
+Node.js microservices, Elasticsearch search, WebSockets for live collab—shipping modular, production-scalable backends.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🤝 Open to Collab & Internships
+Full-stack builds, real-time systems, backend optimization. **HCMUT Sophomore (Exchange) hunting remote/US/SEA internships** in backend engineering. Let's connect!
 
----
-[![](https://visitcount.itsvg.in/api?id=ShyamNayak27&icon=0&color=0)](https://visitcount.itsvg.in)
+⚡ **Fun Fact**: I debug production systems for hours but lose my phone in 5 minutes. 😆
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+
+## 🌐 Find Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/trynafindshyxm) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shyamnnayak) 
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A15?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27325327/shyam-narayan-nayak)
+
+[![Visit Count](https://visitcount.itsvg.in/api?id=yourgithubid&label=Profile%20Views&color=4&logo=github&logoColor=white)](https://visitcount.itsvg.in)
