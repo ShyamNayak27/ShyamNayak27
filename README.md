@@ -8,7 +8,7 @@
 - **ClearAudit VN** (Live on HuggingFace): Institutional-grade fraud detection system for Vietnam's financial market. Dual-branch ensemble (XGBoost + Autoencoder) achieving **99.7% recall** across 4 fraud typologies. Full MLOps lifecycle — CTGAN/WGAN-GP data synthesis, 32 DuckDB-engineered features, real-time FastAPI + Redis inference (<20ms), SHAP explainability mapped to SBV regulatory language, and an interactive dual-audience frontend. Trained on 550,000+ synthetic transactions.
 
 - **Code Executor Engine** (Live): Production-ready async Python executor using FastAPI, Celery, Redis queues, subprocess isolation (5s timeouts), and Docker. Handles concurrent executions without blocking.
-- 
+
 - **GradConnect** : Full-stack campus platform with real-time discussions (WebSockets + Redis), lost & found, events, recruitment, and microservices backend (Node/Express + PostgreSQL). Scaling for 1K+ student users.
 
 ---
